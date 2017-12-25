@@ -1,2 +1,8 @@
 # Hello-world
-just another respository
+
+hi there
+
+i am jim, love programming 
+
+
+
